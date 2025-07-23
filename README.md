@@ -4,11 +4,11 @@ This project sets out to harness machine learning to predict which telecom custo
 # Business Objective
 For telecom providers, losing customers hurts the bottom line. Early predictions make it possible to reach out and win back at-risk users before it’s too late. My work goes beyond simple predictions—it classifies customers by churn risk, highlights the strongest drivers of that risk, and delivers clear, actionable recommendations to help companies craft more effective retention plans.
 
-## 📌 Overview
+## Overview
 This project aims to predict customer churn in a telecommunications company using machine learning classification models. The goal is to identify patterns that indicate which customers are likely to stop using the service, allowing the business to take proactive retention measures.
 
 
-## 👥 Business and Data Understanding
+## Business and Data Understanding
 
 ### Business Context
 Telecom companies often face significant losses due to customer churn. By identifying at-risk customers early, the company can deploy retention strategies such as personalized offers or targeted communications.
@@ -104,13 +104,13 @@ To build a classification model that predicts customer churn and provides action
 ---
 
 
-## 📌 Conclusion
+## Conclusion
 
 This classification model successfully identifies customers at risk of churning and provides actionable insights for the customer retention team. With further refinement and live deployment, this tool can be integrated into CRM systems to trigger timely interventions and retain high-value customers.
 
 ---
 
-## 📎 Links
+## Links
 
 - Linkedn: https://www.linkedin.com/in/luciana-ndanu-24a71bb6/
 - Email: lucianandanu@gmail.com
