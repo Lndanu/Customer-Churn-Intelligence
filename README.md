@@ -1,12 +1,8 @@
 # Customer-Churn-Intelligence
-This project sets out to harness machine learning to predict which telecom customers might leave, using real-world industry data. By exploring different models, we hope to uncover the most important reasons behind customer churn. Ultimately, the goal is to equip businesses with practical, data-backed strategies for keeping customers longer.
+This project sets out to harness machine learning to predict which telecom customers might leave, using real-world industry data. By exploring different models,The goal is to identify patterns that indicate which customers are likely to stop using the service, allowing the business to take proactive retention measures.
 
 # Business Objective
 For telecom providers, losing customers hurts the bottom line. Early predictions make it possible to reach out and win back at-risk users before it’s too late. My work goes beyond simple predictions—it classifies customers by churn risk, highlights the strongest drivers of that risk, and delivers clear, actionable recommendations to help companies craft more effective retention plans.
-
-## Overview
-This project aims to predict customer churn in a telecommunications company using machine learning classification models. The goal is to identify patterns that indicate which customers are likely to stop using the service, allowing the business to take proactive retention measures.
-
 
 ## Business and Data Understanding
 
@@ -18,9 +14,6 @@ The primary stakeholder is the **Customer Retention Team** at a telecommunicatio
 
 ### Problem Statement
 "Can we predict whether a customer will churn based on their demographic and usage behavior?"
-
-### Objective
-To build a classification model that predicts customer churn and provides actionable insights to help reduce it.
 
 ---
 
